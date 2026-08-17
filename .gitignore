@@ -1,0 +1,26 @@
+# Node & Dependencies
+node_modules/
+dist/
+dist-ssr/
+build/
+coverage/
+*.local
+
+# Environment Variables
+.env*
+!.env.example
+
+# Logs & System Files
+*.log
+.DS_Store
+Thumbs.db
+
+# Android Gradle Build Outputs (Generated during build)
+.gradle/
+android/.gradle/
+android/build/
+android/app/build/
+android/capacitor-cordova-android-plugins/build/
+android/app/src/main/assets/public/
+*.apk
+*.aab

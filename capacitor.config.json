@@ -1,0 +1,10 @@
+{
+  "appId": "com.kishordrivingschool.fleet",
+  "appName": "Kishore Driving School",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}

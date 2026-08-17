@@ -1,0 +1,6 @@
+{
+  "name": "Kishore Driving School - Fleet Manager",
+  "description": "Smart Vehicle Record, Expiry, Payment & Document Management System for Kishore Driving School with Android APK Capacitor build integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
